@@ -1,0 +1,25 @@
+{
+  "name": "twitch-bot",
+  "version": "1.0.0",
+  "description": "Building a Twitch-Bot with several custom commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoRosete/Twitch-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoRosete/Twitch-Bot/issues"
+  },
+  "homepage": "https://github.com/JoaoRosete/Twitch-Bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "tmi.js": "^1.5.0"
+  }
+}
